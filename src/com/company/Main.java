@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         sum300();
 
-        
+
     }
 
         static int sum300(){
